@@ -20,9 +20,11 @@
 
 ## Plan
 
-1 - Tim (friend from Treehouse) hooked me up with a free professional account! So I am going to do their fullstack JS course
+1 and 2 - Tim (friend from Treehouse) hooked me up with a free professional account! So I am going to do their Fullstack JS track (includes NodeJS and AJAX)
 
 3 - Found this awesome site for meet ups in NYC (https://www.builtinnyc.com/) and I'm going to spend some time perusing this to see what kind of events happen regularly and other things that they offer.
+
+4 - I have been completing a Python masterclass on Udemy that has been great. I will continue to work through that. I will also checkout Treehouse's Ruby course as Tim said it is one of their strongest courses.
 
 ## Work
 
