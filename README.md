@@ -30,7 +30,9 @@
 
  * Worked with my friend Tim to edit my cover letter for treehouse and gave it to him to give to their CFO and CTO. (https://docs.google.com/document/d/1OMLklYirAHolUnMkrrQaXp6CpeQIsdodlBEqlsIb2BU/edit?usp=sharing)
 
-    Had a great meeting with my friend Tim who does marketing for Treehouse. He gave me a lot of insight into their vision as a company and gave me tips on how to better gear my cover letter to Londa(CPO) and Doug(HR) He gave feedback that a lot of my original language sounded too robotic. So I changed it to a more conversational tone.
+    Had a great meeting with my friend Tim who does marketing for Treehouse. He gave me a lot of insight into their vision as a company and gave me tips on how to better gear my cover letter to Londa (CPO) and Doug (HR). He gave feedback that a lot of my original language sounded too robotic. So I changed it to a more conversational tone.
+
+ * Started a jQuery course as part of the JS track. 
 
 ## Reflection & Next Steps
 
